@@ -1,0 +1,64 @@
+1 1
+	ADABOOST: 
+	model accuracy is 0.448005135295
+
+	DECISION TREE: 
+	model accuracy is 0.551451708473
+
+	GAUSSIAN NAIVE BAYES: 
+	model accuracy is 0.338188820857
+
+	LOGISTIC REGRESSION: 
+	model accuracy is 0.17410626111
+
+2 2
+	ADABOOST: 
+	model accuracy is 0.424543209877
+
+	DECISION TREE: 
+	model accuracy is 0.584691358025
+
+	GAUSSIAN NAIVE BAYES: 
+	model accuracy is 0.348641975309
+
+	LOGISTIC REGRESSION: 
+	model accuracy is 0.214518518519
+
+3,3
+	ADABOOST: 
+	model accuracy is 0.422708415646
+
+	DECISION TREE: 
+	model accuracy is 0.55496839194
+
+	GAUSSIAN NAIVE BAYES: 
+	model accuracy is 0.348231924141
+
+	LOGISTIC REGRESSION: 
+	model accuracy is 0.23365270644
+
+4,4
+	ADABOOST: 
+	model accuracy is 0.412278968685
+
+	DECISION TREE: 
+	model accuracy is 0.520893015904
+
+	GAUSSIAN NAIVE BAYES: 
+	model accuracy is 0.346340017781
+
+	LOGISTIC REGRESSION: 
+	model accuracy is 0.232737330831
+
+5,5
+	ADABOOST: 
+	model accuracy is 0.404169136534
+
+	DECISION TREE: 
+	model accuracy is 0.494022920371
+
+	GAUSSIAN NAIVE BAYES: 
+	model accuracy is 0.34657182375
+
+	LOGISTIC REGRESSION: 
+	model accuracy is 0.232760324047
